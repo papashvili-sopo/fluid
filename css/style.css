@@ -1,0 +1,25 @@
+.wraper{
+
+}
+
+.image{
+ float: right;
+ width: 500px;
+}
+
+.text{
+	float: left;
+	width: 900px;
+
+}
+.clear{
+	clear: both;
+}
+
+.text1 :: before{
+	content: 'geolab';
+	display: inline-block;
+}
+.text2{
+	display: inline-block;
+}
